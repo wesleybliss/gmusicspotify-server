@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
     "extract-zip": "^2.0.0",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "shortid": "^2.2.15",
     "ws": "^7.3.0"
